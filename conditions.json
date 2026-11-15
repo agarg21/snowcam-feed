@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-15T13:21:43+00:00",
+ "generated_at": "2026-11-15T18:47:04+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
    "publish": false,
    "name": "Hunter Mountain",
    "cam_page": "https://www.huntermtn.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 2,
+   "cams_used": 3,
    "cams_total": 4,
    "cams": [
     {
      "name": "Base Area",
      "role": "base",
-     "read_at": "2026-11-15T13:20:52+00:00",
+     "read_at": "2026-11-15T18:46:16+00:00",
      "no_read": null
     },
     {
@@ -24,14 +24,14 @@
     {
      "name": "Hunter East",
      "role": "trail",
-     "read_at": "2026-11-15T13:20:53+00:00",
+     "read_at": "2026-11-15T18:46:19+00:00",
      "no_read": null
     },
     {
      "name": "Summit",
      "role": "summit",
-     "read_at": null,
-     "no_read": "fogged in"
+     "read_at": "2026-11-15T18:46:20+00:00",
+     "no_read": null
     }
    ],
    "status": "No read",
@@ -45,14 +45,14 @@
    "publish": false,
    "name": "Mount Snow",
    "cam_page": "https://www.mountsnow.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 3,
+   "cams_used": 2,
    "cams_total": 5,
    "cams": [
     {
      "name": "Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-15T13:20:54+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "feed frozen"
     },
     {
      "name": "Summit",
@@ -69,13 +69,13 @@
     {
      "name": "Carinthia",
      "role": "trail",
-     "read_at": "2026-11-15T13:20:56+00:00",
+     "read_at": "2026-11-15T18:46:22+00:00",
      "no_read": null
     },
     {
      "name": "Main Base Area",
      "role": "base",
-     "read_at": "2026-11-15T13:20:57+00:00",
+     "read_at": "2026-11-15T18:46:23+00:00",
      "no_read": null
     }
    ],
@@ -90,31 +90,31 @@
    "publish": false,
    "name": "Okemo",
    "cam_page": "https://www.okemo.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 3,
+   "cams_used": 4,
    "cams_total": 4,
    "cams": [
     {
      "name": "Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-15T13:20:58+00:00",
+     "read_at": "2026-11-15T18:46:25+00:00",
      "no_read": null
     },
     {
      "name": "Summit",
      "role": "summit",
-     "read_at": null,
-     "no_read": "fogged in"
+     "read_at": "2026-11-15T18:46:25+00:00",
+     "no_read": null
     },
     {
      "name": "Sugar House",
      "role": "trail",
-     "read_at": "2026-11-15T13:21:00+00:00",
+     "read_at": "2026-11-15T18:46:26+00:00",
      "no_read": null
     },
     {
      "name": "Roundhouse",
      "role": "base",
-     "read_at": "2026-11-15T13:21:01+00:00",
+     "read_at": "2026-11-15T18:46:26+00:00",
      "no_read": null
     }
    ],
@@ -135,7 +135,7 @@
     {
      "name": "Base",
      "role": "base",
-     "read_at": "2026-11-15T13:21:02+00:00",
+     "read_at": "2026-11-15T18:46:27+00:00",
      "no_read": null
     }
    ],
