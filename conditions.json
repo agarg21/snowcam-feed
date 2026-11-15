@@ -1,0 +1,150 @@
+{
+ "generated_at": "2026-11-15T13:21:43+00:00",
+ "window_minutes": 45,
+ "resorts": {
+  "hunter": {
+   "publish": false,
+   "name": "Hunter Mountain",
+   "cam_page": "https://www.huntermtn.com/the-mountain/mountain-conditions/mountain-cams.aspx",
+   "cams_used": 2,
+   "cams_total": 4,
+   "cams": [
+    {
+     "name": "Base Area",
+     "role": "base",
+     "read_at": "2026-11-15T13:20:52+00:00",
+     "no_read": null
+    },
+    {
+     "name": "Midstation",
+     "role": "trail",
+     "read_at": null,
+     "no_read": "feed frozen"
+    },
+    {
+     "name": "Hunter East",
+     "role": "trail",
+     "read_at": "2026-11-15T13:20:53+00:00",
+     "no_read": null
+    },
+    {
+     "name": "Summit",
+     "role": "summit",
+     "read_at": null,
+     "no_read": "fogged in"
+    }
+   ],
+   "status": "No read",
+   "label": "No read",
+   "line": "Cam reads for this resort are still being checked before we publish them.",
+   "read_at": null,
+   "fields": {},
+   "stake_inches": null
+  },
+  "mount-snow": {
+   "publish": false,
+   "name": "Mount Snow",
+   "cam_page": "https://www.mountsnow.com/the-mountain/mountain-conditions/mountain-cams.aspx",
+   "cams_used": 3,
+   "cams_total": 5,
+   "cams": [
+    {
+     "name": "Snow Stake",
+     "role": "stake",
+     "read_at": "2026-11-15T13:20:54+00:00",
+     "no_read": null
+    },
+    {
+     "name": "Summit",
+     "role": "summit",
+     "read_at": null,
+     "no_read": "fogged in"
+    },
+    {
+     "name": "Somerset",
+     "role": "trail",
+     "read_at": null,
+     "no_read": "fogged in"
+    },
+    {
+     "name": "Carinthia",
+     "role": "trail",
+     "read_at": "2026-11-15T13:20:56+00:00",
+     "no_read": null
+    },
+    {
+     "name": "Main Base Area",
+     "role": "base",
+     "read_at": "2026-11-15T13:20:57+00:00",
+     "no_read": null
+    }
+   ],
+   "status": "No read",
+   "label": "No read",
+   "line": "Cam reads for this resort are still being checked before we publish them.",
+   "read_at": null,
+   "fields": {},
+   "stake_inches": null
+  },
+  "okemo": {
+   "publish": false,
+   "name": "Okemo",
+   "cam_page": "https://www.okemo.com/the-mountain/mountain-conditions/mountain-cams.aspx",
+   "cams_used": 3,
+   "cams_total": 4,
+   "cams": [
+    {
+     "name": "Snow Stake",
+     "role": "stake",
+     "read_at": "2026-11-15T13:20:58+00:00",
+     "no_read": null
+    },
+    {
+     "name": "Summit",
+     "role": "summit",
+     "read_at": null,
+     "no_read": "fogged in"
+    },
+    {
+     "name": "Sugar House",
+     "role": "trail",
+     "read_at": "2026-11-15T13:21:00+00:00",
+     "no_read": null
+    },
+    {
+     "name": "Roundhouse",
+     "role": "base",
+     "read_at": "2026-11-15T13:21:01+00:00",
+     "no_read": null
+    }
+   ],
+   "status": "No read",
+   "label": "No read",
+   "line": "Cam reads for this resort are still being checked before we publish them.",
+   "read_at": null,
+   "fields": {},
+   "stake_inches": null
+  },
+  "windham": {
+   "publish": false,
+   "name": "Windham Mountain Club",
+   "cam_page": "https://www.windhammountainclub.com/mountain-cam/",
+   "cams_used": 1,
+   "cams_total": 1,
+   "cams": [
+    {
+     "name": "Base",
+     "role": "base",
+     "read_at": "2026-11-15T13:21:02+00:00",
+     "no_read": null
+    }
+   ],
+   "status": "No read",
+   "label": "No read",
+   "line": "Cam reads for this resort are still being checked before we publish them.",
+   "read_at": null,
+   "fields": {},
+   "stake_inches": null
+  }
+ }
+}
