@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T12:18:22+00:00",
+ "generated_at": "2026-11-16T13:20:05+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -12,7 +12,7 @@
     {
      "name": "Base Area",
      "role": "base",
-     "read_at": "2026-11-16T12:17:33+00:00",
+     "read_at": "2026-11-16T13:17:34+00:00",
      "no_read": null
     },
     {
@@ -24,14 +24,14 @@
     {
      "name": "Hunter East",
      "role": "trail",
-     "read_at": "2026-11-16T12:17:33+00:00",
+     "read_at": "2026-11-16T13:17:34+00:00",
      "no_read": null
     },
     {
      "name": "Summit",
      "role": "summit",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "feed frozen"
     }
    ],
    "status": "No read",
@@ -45,14 +45,14 @@
    "publish": false,
    "name": "Mount Snow",
    "cam_page": "https://www.mountsnow.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 3,
+   "cams_used": 2,
    "cams_total": 5,
    "cams": [
     {
      "name": "Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-16T11:35:14+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "feed frozen"
     },
     {
      "name": "Summit",
@@ -69,13 +69,13 @@
     {
      "name": "Carinthia",
      "role": "trail",
-     "read_at": "2026-11-16T12:17:33+00:00",
+     "read_at": "2026-11-16T13:17:34+00:00",
      "no_read": null
     },
     {
      "name": "Main Base Area",
      "role": "base",
-     "read_at": "2026-11-16T12:17:34+00:00",
+     "read_at": "2026-11-16T13:17:35+00:00",
      "no_read": null
     }
    ],
@@ -90,14 +90,14 @@
    "publish": false,
    "name": "Okemo",
    "cam_page": "https://www.okemo.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 3,
+   "cams_used": 2,
    "cams_total": 4,
    "cams": [
     {
      "name": "Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-16T12:17:34+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     },
     {
      "name": "Summit",
@@ -108,13 +108,13 @@
     {
      "name": "Sugar House",
      "role": "trail",
-     "read_at": "2026-11-16T12:17:34+00:00",
+     "read_at": "2026-11-16T13:17:35+00:00",
      "no_read": null
     },
     {
      "name": "Roundhouse",
      "role": "base",
-     "read_at": "2026-11-16T12:17:34+00:00",
+     "read_at": "2026-11-16T13:17:35+00:00",
      "no_read": null
     }
    ],
@@ -135,7 +135,7 @@
     {
      "name": "Base",
      "role": "base",
-     "read_at": "2026-11-16T12:17:34+00:00",
+     "read_at": "2026-11-16T13:17:35+00:00",
      "no_read": null
     }
    ],
@@ -150,50 +150,50 @@
    "publish": false,
    "name": "Killington",
    "cam_page": "https://killington.com/webcams",
-   "cams_used": 0,
+   "cams_used": 6,
    "cams_total": 7,
    "cams": [
     {
-     "name": "cam_snowshed_adventure_center_1789055086",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Killington base area",
+     "role": "base",
+     "read_at": "2026-11-16T13:17:35+00:00",
+     "no_read": null
     },
     {
-     "name": "61e3ce02-faaa-4499-a547-6574ef6fa4f6",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Killington summit lift top",
+     "role": "summit",
+     "read_at": "2026-11-16T13:17:35+00:00",
+     "no_read": null
     },
     {
-     "name": "5f4fb731-c591-464f-a60d-dccc968e8fa0",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Killington base valley",
+     "role": "base",
+     "read_at": "2026-11-16T13:17:35+00:00",
+     "no_read": null
     },
     {
-     "name": "48933086-3e4f-4093-818f-603f6d084c81",
+     "name": "Chairlift over trail",
      "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T13:17:35+00:00",
+     "no_read": null
     },
     {
-     "name": "2a8b98fa-994e-4e36-9c61-d62e00a500b0",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Killington summit clearing",
+     "role": "summit",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
-     "name": "a0de9878-d7b7-4906-9e83-536fde35c8a9",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "K-1 Lodge base",
+     "role": "base",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
      "name": "84943abb-01cd-4907-8cc2-a9a7680d7529",
      "role": "trail",
      "read_at": null,
-     "no_read": "not read yet"
+     "no_read": "feed frozen"
     }
    ],
    "status": "No read",
@@ -207,20 +207,20 @@
    "publish": false,
    "name": "Jay Peak",
    "cam_page": "https://jaypeakresort.com/resort/photo-day",
-   "cams_used": 0,
+   "cams_used": 2,
    "cams_total": 3,
    "cams": [
     {
-     "name": "6526ffaa1c3bd6b512d2585d",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Jay Peak summit view",
+     "role": "summit",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
-     "name": "6526fd5a071b19b5189bb07b",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Jay Peak summit trail",
+     "role": "summit",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
      "name": "prism58",
@@ -240,32 +240,32 @@
    "publish": false,
    "name": "Stowe",
    "cam_page": "https://www.stowe.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 0,
+   "cams_used": 4,
    "cams_total": 4,
    "cams": [
     {
-     "name": "stowevillage2",
+     "name": "Stowe Mountain Lodge base",
      "role": "base",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
-     "name": "stowesnowstake",
+     "name": "Stowe snow stake",
      "role": "stake",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
-     "name": "stowemidwaybasestation",
-     "role": "base",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Gondola line trail",
+     "role": "trail",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
-     "name": "stowevillage",
+     "name": "Village ice rink",
      "role": "base",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     }
    ],
    "status": "No read",
@@ -279,20 +279,20 @@
    "publish": false,
    "name": "Holiday Valley",
    "cam_page": "https://www.holidayvalley.com/webcams/",
-   "cams_used": 0,
-   "cams_total": 6,
+   "cams_used": 4,
+   "cams_total": 5,
    "cams": [
     {
-     "name": "896d837c-d4b2-4d29-a555-0e5fcd81a8ea",
+     "name": "Top of Cindy's Run",
      "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
-     "name": "691f41e72fc3303fedc919b6",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Tannenbaum Base Area",
+     "role": "base",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
      "name": "691f48292fc3303fedc919c3",
@@ -301,22 +301,16 @@
      "no_read": "feed frozen"
     },
     {
-     "name": "691f44032fc3303fedc919bc",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Mardi Gras Top",
+     "role": "summit",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
-     "name": "691f45852fc3303fedc919bf",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
-    },
-    {
-     "name": "691f43502fc3303fedc919b9",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Main Lodge Camera",
+     "role": "base",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     }
    ],
    "status": "No read",
@@ -330,8 +324,8 @@
    "publish": false,
    "name": "Sugarbush",
    "cam_page": "https://www.sugarbush.com/mountain/webcams",
-   "cams_used": 0,
-   "cams_total": 6,
+   "cams_used": 3,
+   "cams_total": 5,
    "cams": [
     {
      "name": "yt:jhCh3dsEv-M",
@@ -340,34 +334,28 @@
      "no_read": "feed frozen"
     },
     {
-     "name": "yt:F5m1Ac9ZvKc",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
-    },
-    {
      "name": "yt:gWPiruOopeE",
      "role": "trail",
      "read_at": null,
-     "no_read": "not read yet"
+     "no_read": "feed frozen"
     },
     {
-     "name": "yt:2Kjx9cnxRXA",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Sugarbush Snow Stake",
+     "role": "stake",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
-     "name": "yt:dR2pY9L3md8",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Sugarbush summit view",
+     "role": "summit",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
-     "name": "webcam.io",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Sugarbush base lodge",
+     "role": "base",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     }
    ],
    "status": "No read",
@@ -381,44 +369,38 @@
    "publish": false,
    "name": "Stratton",
    "cam_page": "https://www.stratton.com/the-mountain/webcams",
-   "cams_used": 0,
-   "cams_total": 6,
+   "cams_used": 4,
+   "cams_total": 5,
    "cams": [
     {
-     "name": "yt:9E00W9R_Cnc",
+     "name": "Snow Bowl trail",
      "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
-     "name": "yt:ildHe_RG1Mk",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Sun Bowl Base",
+     "role": "base",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
-     "name": "yt:ATM2utwOLOE",
+     "name": "Mid Mountain trail",
      "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
-    },
-    {
-     "name": "yt:AhcH03HwuH0",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     },
     {
      "name": "yt:H-_sGi4Sbtk",
      "role": "trail",
      "read_at": null,
-     "no_read": "not read yet"
+     "no_read": "feed frozen"
     },
     {
-     "name": "yt:SqWPtm63rJc",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Stratton base view",
+     "role": "base",
+     "read_at": "2026-11-16T13:17:36+00:00",
+     "no_read": null
     }
    ],
    "status": "No read",
@@ -432,32 +414,32 @@
    "publish": false,
    "name": "Seven Springs",
    "cam_page": "https://www.7springs.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 0,
+   "cams_used": 4,
    "cams_total": 4,
    "cams": [
     {
-     "name": "sevensprings",
+     "name": "Tubing park and base",
      "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T13:17:37+00:00",
+     "no_read": null
     },
     {
-     "name": "sevenspringsnorthface",
+     "name": "North Pole lift",
      "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T13:17:37+00:00",
+     "no_read": null
     },
     {
-     "name": "sevenspringstubing",
+     "name": "Beginner slope conveyor lifts",
      "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T13:17:37+00:00",
+     "no_read": null
     },
     {
-     "name": "sevenspringstahoe",
-     "role": "trail",
-     "read_at": null,
-     "no_read": "not read yet"
+     "name": "Summit lift top",
+     "role": "summit",
+     "read_at": "2026-11-16T13:17:37+00:00",
+     "no_read": null
     }
    ],
    "status": "No read",
