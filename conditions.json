@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T02:03:01+00:00",
+ "generated_at": "2026-11-16T03:18:17+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -90,14 +90,14 @@
    "publish": false,
    "name": "Okemo",
    "cam_page": "https://www.okemo.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 0,
+   "cams_used": 1,
    "cams_total": 4,
    "cams": [
     {
      "name": "Snow Stake",
      "role": "stake",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T03:17:30+00:00",
+     "no_read": null
     },
     {
      "name": "Summit",
