@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T07:18:16+00:00",
+ "generated_at": "2026-11-16T10:18:20+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -96,7 +96,7 @@
     {
      "name": "Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-16T07:17:30+00:00",
+     "read_at": "2026-11-16T10:17:35+00:00",
      "no_read": null
     },
     {
