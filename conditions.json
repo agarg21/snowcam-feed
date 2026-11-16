@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T01:07:37+00:00",
+ "generated_at": "2026-11-16T02:03:01+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -90,14 +90,14 @@
    "publish": false,
    "name": "Okemo",
    "cam_page": "https://www.okemo.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 1,
+   "cams_used": 0,
    "cams_total": 4,
    "cams": [
     {
      "name": "Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-16T01:06:49+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     },
     {
      "name": "Summit",
@@ -759,26 +759,26 @@
    "publish": false,
    "name": "Mt Bachelor",
    "cam_page": "https://www.mtbachelor.com/the-mountain/webcams/",
-   "cams_used": 3,
+   "cams_used": 0,
    "cams_total": 3,
    "cams": [
     {
      "name": "Top of Outback",
      "role": "summit",
-     "read_at": "2026-11-16T01:06:54+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Top of Cloudchaser",
      "role": "summit",
-     "read_at": "2026-11-16T01:06:54+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Mt Bachelor Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-16T01:06:54+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     }
    ],
    "status": "No read",
@@ -909,44 +909,44 @@
    "publish": false,
    "name": "Timberline Lodge",
    "cam_page": "https://timberlinelodge.com/webcams/",
-   "cams_used": 6,
+   "cams_used": 0,
    "cams_total": 6,
    "cams": [
     {
      "name": "Timberline Lodge front",
      "role": "base",
-     "read_at": "2026-11-16T01:06:55+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Timberline snowy slope",
      "role": "trail",
-     "read_at": "2026-11-16T01:06:55+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Lift terminal and tower",
      "role": "trail",
-     "read_at": "2026-11-16T01:06:55+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Chairlift line, Timberline",
      "role": "trail",
-     "read_at": "2026-11-16T01:06:55+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Timberline parking lot",
      "role": "base",
-     "read_at": "2026-11-16T01:06:55+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Lift line in fog",
      "role": "trail",
-     "read_at": "2026-11-16T01:06:55+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     }
    ],
    "status": "No read",
@@ -960,32 +960,32 @@
    "publish": false,
    "name": "Heavenly",
    "cam_page": "https://www.skiheavenly.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 4,
+   "cams_used": 0,
    "cams_total": 4,
    "cams": [
     {
      "name": "Lake Tahoe summit view",
      "role": "summit",
-     "read_at": "2026-11-16T01:06:55+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Heavenly lift top view",
      "role": "summit",
-     "read_at": "2026-11-16T01:06:56+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Heavenly summit overlooking Lake Tahoe",
      "role": "summit",
-     "read_at": "2026-11-16T01:06:56+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Heavenly lift base",
      "role": "base",
-     "read_at": "2026-11-16T01:06:56+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     }
    ],
    "status": "No read",
@@ -1185,20 +1185,20 @@
    "publish": false,
    "name": "Kirkwood",
    "cam_page": "https://www.kirkwood.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 2,
+   "cams_used": 0,
    "cams_total": 2,
    "cams": [
     {
      "name": "Solitude lift base",
      "role": "base",
-     "read_at": "2026-11-16T01:06:57+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Kirkwood base lifts",
      "role": "base",
-     "read_at": "2026-11-16T01:06:57+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     }
    ],
    "status": "No read",
@@ -1212,32 +1212,32 @@
    "publish": false,
    "name": "Northstar",
    "cam_page": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 3,
+   "cams_used": 0,
    "cams_total": 4,
    "cams": [
     {
      "name": "Northstar Snow Stake",
      "role": "stake",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "dark"
     },
     {
      "name": "East Ridge summit sign",
      "role": "summit",
-     "read_at": "2026-11-16T01:06:57+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Tahoe Zephyr Express loading",
      "role": "base",
-     "read_at": "2026-11-16T01:06:57+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     },
     {
      "name": "Northstar Village rink",
      "role": "base",
-     "read_at": "2026-11-16T01:06:57+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "dark"
     }
    ],
    "status": "No read",
