@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T11:36:05+00:00",
+ "generated_at": "2026-11-16T12:18:22+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -12,7 +12,7 @@
     {
      "name": "Base Area",
      "role": "base",
-     "read_at": "2026-11-16T11:35:14+00:00",
+     "read_at": "2026-11-16T12:17:33+00:00",
      "no_read": null
     },
     {
@@ -24,7 +24,7 @@
     {
      "name": "Hunter East",
      "role": "trail",
-     "read_at": "2026-11-16T11:35:14+00:00",
+     "read_at": "2026-11-16T12:17:33+00:00",
      "no_read": null
     },
     {
@@ -69,13 +69,13 @@
     {
      "name": "Carinthia",
      "role": "trail",
-     "read_at": "2026-11-16T11:35:14+00:00",
+     "read_at": "2026-11-16T12:17:33+00:00",
      "no_read": null
     },
     {
      "name": "Main Base Area",
      "role": "base",
-     "read_at": "2026-11-16T11:35:15+00:00",
+     "read_at": "2026-11-16T12:17:34+00:00",
      "no_read": null
     }
    ],
@@ -90,14 +90,14 @@
    "publish": false,
    "name": "Okemo",
    "cam_page": "https://www.okemo.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 2,
+   "cams_used": 3,
    "cams_total": 4,
    "cams": [
     {
      "name": "Snow Stake",
      "role": "stake",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-16T12:17:34+00:00",
+     "no_read": null
     },
     {
      "name": "Summit",
@@ -108,13 +108,13 @@
     {
      "name": "Sugar House",
      "role": "trail",
-     "read_at": "2026-11-16T11:35:15+00:00",
+     "read_at": "2026-11-16T12:17:34+00:00",
      "no_read": null
     },
     {
      "name": "Roundhouse",
      "role": "base",
-     "read_at": "2026-11-16T11:35:15+00:00",
+     "read_at": "2026-11-16T12:17:34+00:00",
      "no_read": null
     }
    ],
@@ -135,7 +135,7 @@
     {
      "name": "Base",
      "role": "base",
-     "read_at": "2026-11-16T11:35:15+00:00",
+     "read_at": "2026-11-16T12:17:34+00:00",
      "no_read": null
     }
    ],
@@ -286,37 +286,37 @@
      "name": "896d837c-d4b2-4d29-a555-0e5fcd81a8ea",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "691f41e72fc3303fedc919b6",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "691f48292fc3303fedc919c3",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "feed frozen"
     },
     {
      "name": "691f44032fc3303fedc919bc",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "691f45852fc3303fedc919bf",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "691f43502fc3303fedc919b9",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     }
    ],
    "status": "No read",
