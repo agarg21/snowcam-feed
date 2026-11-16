@@ -1,37 +1,37 @@
 {
- "generated_at": "2026-11-16T10:18:20+00:00",
+ "generated_at": "2026-11-16T11:36:05+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
    "publish": false,
    "name": "Hunter Mountain",
    "cam_page": "https://www.huntermtn.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 0,
+   "cams_used": 2,
    "cams_total": 4,
    "cams": [
     {
      "name": "Base Area",
      "role": "base",
-     "read_at": null,
-     "no_read": "dark"
+     "read_at": "2026-11-16T11:35:14+00:00",
+     "no_read": null
     },
     {
      "name": "Midstation",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "feed frozen"
     },
     {
      "name": "Hunter East",
      "role": "trail",
-     "read_at": null,
-     "no_read": "dark"
+     "read_at": "2026-11-16T11:35:14+00:00",
+     "no_read": null
     },
     {
      "name": "Summit",
      "role": "summit",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "fogged in"
     }
    ],
    "status": "No read",
@@ -45,38 +45,38 @@
    "publish": false,
    "name": "Mount Snow",
    "cam_page": "https://www.mountsnow.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 0,
+   "cams_used": 3,
    "cams_total": 5,
    "cams": [
     {
      "name": "Snow Stake",
      "role": "stake",
-     "read_at": null,
-     "no_read": "dark"
+     "read_at": "2026-11-16T11:35:14+00:00",
+     "no_read": null
     },
     {
      "name": "Summit",
      "role": "summit",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "fogged in"
     },
     {
      "name": "Somerset",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "fogged in"
     },
     {
      "name": "Carinthia",
      "role": "trail",
-     "read_at": null,
-     "no_read": "dark"
+     "read_at": "2026-11-16T11:35:14+00:00",
+     "no_read": null
     },
     {
      "name": "Main Base Area",
      "role": "base",
-     "read_at": null,
-     "no_read": "dark"
+     "read_at": "2026-11-16T11:35:15+00:00",
+     "no_read": null
     }
    ],
    "status": "No read",
@@ -90,32 +90,32 @@
    "publish": false,
    "name": "Okemo",
    "cam_page": "https://www.okemo.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 1,
+   "cams_used": 2,
    "cams_total": 4,
    "cams": [
     {
      "name": "Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-16T10:17:35+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     },
     {
      "name": "Summit",
      "role": "summit",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "fogged in"
     },
     {
      "name": "Sugar House",
      "role": "trail",
-     "read_at": null,
-     "no_read": "dark"
+     "read_at": "2026-11-16T11:35:15+00:00",
+     "no_read": null
     },
     {
      "name": "Roundhouse",
      "role": "base",
-     "read_at": null,
-     "no_read": "dark"
+     "read_at": "2026-11-16T11:35:15+00:00",
+     "no_read": null
     }
    ],
    "status": "No read",
@@ -129,14 +129,14 @@
    "publish": false,
    "name": "Windham Mountain Club",
    "cam_page": "https://www.windhammountainclub.com/mountain-cam/",
-   "cams_used": 0,
+   "cams_used": 1,
    "cams_total": 1,
    "cams": [
     {
      "name": "Base",
      "role": "base",
-     "read_at": null,
-     "no_read": "dark"
+     "read_at": "2026-11-16T11:35:15+00:00",
+     "no_read": null
     }
    ],
    "status": "No read",
@@ -157,43 +157,43 @@
      "name": "cam_snowshed_adventure_center_1789055086",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "61e3ce02-faaa-4499-a547-6574ef6fa4f6",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "5f4fb731-c591-464f-a60d-dccc968e8fa0",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "48933086-3e4f-4093-818f-603f6d084c81",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "2a8b98fa-994e-4e36-9c61-d62e00a500b0",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "a0de9878-d7b7-4906-9e83-536fde35c8a9",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "84943abb-01cd-4907-8cc2-a9a7680d7529",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     }
    ],
    "status": "No read",
@@ -214,19 +214,19 @@
      "name": "6526ffaa1c3bd6b512d2585d",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "6526fd5a071b19b5189bb07b",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "prism58",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "feed frozen"
     }
    ],
    "status": "No read",
@@ -247,25 +247,25 @@
      "name": "stowevillage2",
      "role": "base",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "stowesnowstake",
      "role": "stake",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "stowemidwaybasestation",
      "role": "base",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "stowevillage",
      "role": "base",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     }
    ],
    "status": "No read",
@@ -337,37 +337,37 @@
      "name": "yt:jhCh3dsEv-M",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "feed frozen"
     },
     {
      "name": "yt:F5m1Ac9ZvKc",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "yt:gWPiruOopeE",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "yt:2Kjx9cnxRXA",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "yt:dR2pY9L3md8",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "webcam.io",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     }
    ],
    "status": "No read",
@@ -388,37 +388,37 @@
      "name": "yt:9E00W9R_Cnc",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "yt:ildHe_RG1Mk",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "yt:ATM2utwOLOE",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "yt:AhcH03HwuH0",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "yt:H-_sGi4Sbtk",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "yt:SqWPtm63rJc",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     }
    ],
    "status": "No read",
@@ -439,25 +439,25 @@
      "name": "sevensprings",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "sevenspringsnorthface",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "sevenspringstubing",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "sevenspringstahoe",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     }
    ],
    "status": "No read",
