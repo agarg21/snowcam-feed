@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T15:19:29+00:00",
+ "generated_at": "2026-11-16T15:43:42+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -12,7 +12,7 @@
     {
      "name": "Base Area",
      "role": "base",
-     "read_at": "2026-11-16T15:17:36+00:00",
+     "read_at": "2026-11-16T15:41:49+00:00",
      "no_read": null
     },
     {
@@ -24,13 +24,13 @@
     {
      "name": "Hunter East",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:36+00:00",
+     "read_at": "2026-11-16T15:41:49+00:00",
      "no_read": null
     },
     {
      "name": "Summit",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:36+00:00",
+     "read_at": "2026-11-16T15:41:49+00:00",
      "no_read": null
     }
    ],
@@ -57,7 +57,7 @@
     {
      "name": "Summit",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:36+00:00",
+     "read_at": "2026-11-16T15:41:49+00:00",
      "no_read": null
     },
     {
@@ -69,13 +69,13 @@
     {
      "name": "Carinthia",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:36+00:00",
+     "read_at": "2026-11-16T15:41:49+00:00",
      "no_read": null
     },
     {
      "name": "Main Base Area",
      "role": "base",
-     "read_at": "2026-11-16T15:17:36+00:00",
+     "read_at": "2026-11-16T15:41:50+00:00",
      "no_read": null
     }
    ],
@@ -114,7 +114,7 @@
     {
      "name": "Roundhouse",
      "role": "base",
-     "read_at": "2026-11-16T15:17:36+00:00",
+     "read_at": "2026-11-16T15:41:50+00:00",
      "no_read": null
     }
    ],
@@ -135,7 +135,7 @@
     {
      "name": "Base",
      "role": "base",
-     "read_at": "2026-11-16T15:17:36+00:00",
+     "read_at": "2026-11-16T15:41:50+00:00",
      "no_read": null
     }
    ],
@@ -150,50 +150,50 @@
    "publish": false,
    "name": "Killington",
    "cam_page": "https://killington.com/webcams",
-   "cams_used": 6,
+   "cams_used": 7,
    "cams_total": 7,
    "cams": [
     {
      "name": "Killington base area",
      "role": "base",
-     "read_at": "2026-11-16T15:17:36+00:00",
+     "read_at": "2026-11-16T15:41:50+00:00",
      "no_read": null
     },
     {
      "name": "Killington summit lift top",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:36+00:00",
+     "read_at": "2026-11-16T15:41:50+00:00",
      "no_read": null
     },
     {
      "name": "Killington base valley",
      "role": "base",
-     "read_at": "2026-11-16T15:17:36+00:00",
+     "read_at": "2026-11-16T15:41:50+00:00",
      "no_read": null
     },
     {
      "name": "Chairlift over trail",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:50+00:00",
      "no_read": null
     },
     {
      "name": "Killington summit clearing",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:50+00:00",
      "no_read": null
     },
     {
      "name": "K-1 Lodge base",
      "role": "base",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:50+00:00",
      "no_read": null
     },
     {
      "name": "Trail base view",
      "role": "trail",
-     "read_at": null,
-     "no_read": "feed frozen"
+     "read_at": "2026-11-16T15:41:50+00:00",
+     "no_read": null
     }
    ],
    "status": "No read",
@@ -213,7 +213,7 @@
     {
      "name": "Jay Peak summit view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:50+00:00",
      "no_read": null
     },
     {
@@ -240,31 +240,31 @@
    "publish": false,
    "name": "Stowe",
    "cam_page": "https://www.stowe.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 3,
+   "cams_used": 4,
    "cams_total": 4,
    "cams": [
     {
      "name": "Stowe Mountain Lodge base",
      "role": "base",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     },
     {
      "name": "Stowe snow stake",
      "role": "stake",
-     "read_at": null,
-     "no_read": "feed frozen"
+     "read_at": "2026-11-16T15:41:51+00:00",
+     "no_read": null
     },
     {
      "name": "Gondola line trail",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     },
     {
      "name": "Village ice rink",
      "role": "base",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     }
    ],
@@ -285,13 +285,13 @@
     {
      "name": "Top of Cindy's Run",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     },
     {
      "name": "Tannenbaum Base Area",
      "role": "base",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     },
     {
@@ -303,13 +303,13 @@
     {
      "name": "Mardi Gras Top",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     },
     {
      "name": "Main Lodge Camera",
      "role": "base",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     }
    ],
@@ -330,7 +330,7 @@
     {
      "name": "Gate House base plaza",
      "role": "base",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     },
     {
@@ -348,13 +348,13 @@
     {
      "name": "Sugarbush summit view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     },
     {
      "name": "Sugarbush base lodge",
      "role": "base",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     }
    ],
@@ -375,31 +375,31 @@
     {
      "name": "Snow Bowl trail",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     },
     {
      "name": "Sun Bowl Base",
      "role": "base",
-     "read_at": "2026-11-16T15:17:37+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     },
     {
      "name": "Mid Mountain trail",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     },
     {
      "name": "Stratton Main Base",
      "role": "base",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:51+00:00",
      "no_read": null
     },
     {
      "name": "Stratton base view",
      "role": "base",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:52+00:00",
      "no_read": null
     }
    ],
@@ -420,13 +420,13 @@
     {
      "name": "Tubing park and base",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:52+00:00",
      "no_read": null
     },
     {
      "name": "North Pole lift",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:52+00:00",
      "no_read": null
     },
     {
@@ -438,7 +438,7 @@
     {
      "name": "Summit lift top",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:52+00:00",
      "no_read": null
     }
    ],
@@ -459,19 +459,19 @@
     {
      "name": "Mountain ridge view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:52+00:00",
      "no_read": null
     },
     {
      "name": "Bare mountain trail",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:52+00:00",
      "no_read": null
     },
     {
      "name": "Breckenridge lift top",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:52+00:00",
      "no_read": null
     },
     {
@@ -498,19 +498,19 @@
     {
      "name": "Park City ridge panorama",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:52+00:00",
      "no_read": null
     },
     {
      "name": "Base area from deck",
      "role": "base",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:52+00:00",
      "no_read": null
     },
     {
      "name": "Orange Bubble lift line",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:38+00:00",
+     "read_at": "2026-11-16T15:41:52+00:00",
      "no_read": null
     },
     {
@@ -555,25 +555,25 @@
     {
      "name": "Vail summit snowgun view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:39+00:00",
+     "read_at": "2026-11-16T15:41:53+00:00",
      "no_read": null
     },
     {
      "name": "Vail summit ridge view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:39+00:00",
+     "read_at": "2026-11-16T15:41:53+00:00",
      "no_read": null
     },
     {
      "name": "Vail summit ridge view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:39+00:00",
+     "read_at": "2026-11-16T15:41:53+00:00",
      "no_read": null
     },
     {
      "name": "Vail high alpine ridge",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:39+00:00",
+     "read_at": "2026-11-16T15:41:53+00:00",
      "no_read": null
     },
     {
@@ -600,13 +600,13 @@
     {
      "name": "Base plaza clock tower",
      "role": "base",
-     "read_at": "2026-11-16T15:17:39+00:00",
+     "read_at": "2026-11-16T15:41:53+00:00",
      "no_read": null
     },
     {
      "name": "Lift top terminal",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:39+00:00",
+     "read_at": "2026-11-16T15:41:53+00:00",
      "no_read": null
     },
     {
@@ -618,13 +618,13 @@
     {
      "name": "Daisy lift bottom",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:39+00:00",
+     "read_at": "2026-11-16T15:41:53+00:00",
      "no_read": null
     },
     {
      "name": "Stevens Pass upper slopes",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:39+00:00",
+     "read_at": "2026-11-16T15:41:53+00:00",
      "no_read": null
     }
    ],
@@ -645,7 +645,7 @@
     {
      "name": "Alta base area",
      "role": "base",
-     "read_at": "2026-11-16T15:17:39+00:00",
+     "read_at": "2026-11-16T15:41:53+00:00",
      "no_read": null
     },
     {
@@ -657,37 +657,37 @@
     {
      "name": "Alta lift and slopes",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:53+00:00",
      "no_read": null
     },
     {
      "name": "Alta mountain slopes view",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Alta snowy slopes",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Alta high ridge view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Alta forested bowl view",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Alta mountain bowl view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     }
    ],
@@ -708,25 +708,25 @@
     {
      "name": "Base area lift terminal",
      "role": "base",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Jackson Hole summit ridge",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Base lift terminal plaza",
      "role": "base",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Base village ice rink",
      "role": "base",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     }
    ],
@@ -747,13 +747,13 @@
     {
      "name": "Top of Outback",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Top of Cloudchaser",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
@@ -786,13 +786,13 @@
     {
      "name": "Winter Park lower slopes",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Winter Park town view",
      "role": "base",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     }
    ],
@@ -825,31 +825,31 @@
     {
      "name": "Snowbird chairlift slope",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Snowbird upper mountain lift line",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Summit ridge panorama",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Snowbird summit ridge view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Snowbird summit ridge view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     }
    ],
@@ -870,13 +870,13 @@
     {
      "name": "Deer Valley lift top view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Deer Valley summit sign",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     }
    ],
@@ -897,37 +897,37 @@
     {
      "name": "Timberline Lodge front",
      "role": "base",
-     "read_at": "2026-11-16T15:17:40+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Timberline snowy slope",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:41+00:00",
+     "read_at": "2026-11-16T15:41:54+00:00",
      "no_read": null
     },
     {
      "name": "Lift terminal and tower",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:41+00:00",
+     "read_at": "2026-11-16T15:41:55+00:00",
      "no_read": null
     },
     {
      "name": "Chairlift line, Timberline",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:41+00:00",
+     "read_at": "2026-11-16T15:41:55+00:00",
      "no_read": null
     },
     {
      "name": "Timberline parking lot",
      "role": "base",
-     "read_at": "2026-11-16T15:17:41+00:00",
+     "read_at": "2026-11-16T15:41:55+00:00",
      "no_read": null
     },
     {
      "name": "Lift line in fog",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:41+00:00",
+     "read_at": "2026-11-16T15:41:55+00:00",
      "no_read": null
     }
    ],
@@ -948,13 +948,13 @@
     {
      "name": "Lake Tahoe summit view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:41+00:00",
+     "read_at": "2026-11-16T15:41:55+00:00",
      "no_read": null
     },
     {
      "name": "Heavenly lift top view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:41+00:00",
+     "read_at": "2026-11-16T15:41:55+00:00",
      "no_read": null
     },
     {
@@ -987,19 +987,19 @@
     {
      "name": "Keystone summit ridge view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:41+00:00",
+     "read_at": "2026-11-16T15:41:55+00:00",
      "no_read": null
     },
     {
      "name": "Keystone upper slope",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:41+00:00",
+     "read_at": "2026-11-16T15:41:55+00:00",
      "no_read": null
     },
     {
      "name": "Keystone Lake village",
      "role": "base",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:55+00:00",
      "no_read": null
     },
     {
@@ -1011,14 +1011,14 @@
     {
      "name": "Keystone bridge base",
      "role": "base",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:55+00:00",
      "no_read": null
     },
     {
      "name": "Keystone Snow Stake",
      "role": "stake",
      "read_at": null,
-     "no_read": "not read yet"
+     "no_read": "feed frozen"
     }
    ],
    "status": "No read",
@@ -1044,31 +1044,31 @@
     {
      "name": "Copper summit ridge view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Copper race hill finish",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Copper base lift area",
      "role": "base",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Summit lift top",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Copper trail with lift line",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     }
    ],
@@ -1095,7 +1095,7 @@
     {
      "name": "Bogus Basin Base Area",
      "role": "base",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
@@ -1122,7 +1122,7 @@
     {
      "name": "Schweitzer chairlift line",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
@@ -1134,25 +1134,25 @@
     {
      "name": "Schweitzer summit view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Schweitzer summit chairlift",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Chairlift on bare slope",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Schweitzer chairlift tower",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     }
    ],
@@ -1173,13 +1173,13 @@
     {
      "name": "Solitude lift base",
      "role": "base",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Kirkwood base lifts",
      "role": "base",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     }
    ],
@@ -1206,19 +1206,19 @@
     {
      "name": "East Ridge summit sign",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Tahoe Zephyr Express loading",
      "role": "base",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Northstar Village rink",
      "role": "base",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     }
    ],
@@ -1239,19 +1239,19 @@
     {
      "name": "Wolf Creek lift line",
      "role": "trail",
-     "read_at": "2026-11-16T15:17:42+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Wolf Creek base lodge",
      "role": "base",
-     "read_at": "2026-11-16T15:17:43+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     },
     {
      "name": "Wolf Creek summit view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:43+00:00",
+     "read_at": "2026-11-16T15:41:56+00:00",
      "no_read": null
     }
    ],
@@ -1272,19 +1272,19 @@
     {
      "name": "Base lift loading area",
      "role": "base",
-     "read_at": "2026-11-16T15:17:43+00:00",
+     "read_at": "2026-11-16T15:41:57+00:00",
      "no_read": null
     },
     {
      "name": "Summit lift top deck",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:43+00:00",
+     "read_at": "2026-11-16T15:41:57+00:00",
      "no_read": null
     },
     {
      "name": "Base lift loading area",
      "role": "base",
-     "read_at": "2026-11-16T15:17:43+00:00",
+     "read_at": "2026-11-16T15:41:57+00:00",
      "no_read": null
     }
    ],
@@ -1299,14 +1299,14 @@
    "publish": false,
    "name": "Telluride",
    "cam_page": "https://tellurideskiresort.com/webcams/",
-   "cams_used": 2,
+   "cams_used": 3,
    "cams_total": 4,
    "cams": [
     {
      "name": "Telluride base slope",
      "role": "base",
-     "read_at": null,
-     "no_read": "fogged in"
+     "read_at": "2026-11-16T15:41:57+00:00",
+     "no_read": null
     },
     {
      "name": "Telluride Snow Stake",
@@ -1317,13 +1317,13 @@
     {
      "name": "Telluride peak view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:43+00:00",
+     "read_at": "2026-11-16T15:41:57+00:00",
      "no_read": null
     },
     {
      "name": "Telluride high mountain view",
      "role": "summit",
-     "read_at": "2026-11-16T15:17:43+00:00",
+     "read_at": "2026-11-16T15:41:57+00:00",
      "no_read": null
     }
    ],
