@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:08:25+00:00",
+ "generated_at": "2026-11-16T20:17:55+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -80,7 +80,7 @@
      "name": "Somerset",
      "role": "trail",
      "read_at": null,
-     "no_read": "feed frozen"
+     "no_read": "fogged in"
     },
     {
      "name": "Carinthia",
@@ -393,7 +393,7 @@
      "name": "Snow stake",
      "role": "stake",
      "read_at": null,
-     "no_read": "feed frozen"
+     "no_read": "not read yet"
     },
     {
      "name": "Sugarbush Snow Stake",
@@ -438,7 +438,7 @@
      "name": "Sun Bowl Base",
      "role": "base",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "not read yet"
     },
     {
      "name": "Mid Mountain trail",
@@ -489,7 +489,7 @@
      "name": "Beginner slope conveyor lifts",
      "role": "trail",
      "read_at": null,
-     "no_read": "feed frozen"
+     "no_read": "not read yet"
     },
     {
      "name": "Summit lift top",
@@ -1059,7 +1059,7 @@
      "name": "Deer Valley lift top view",
      "role": "summit",
      "read_at": null,
-     "no_read": "feed frozen"
+     "no_read": "not read yet"
     },
     {
      "name": "Deer Valley summit sign",
@@ -1098,7 +1098,7 @@
      "name": "Lift terminal and tower",
      "role": "trail",
      "read_at": null,
-     "no_read": "feed frozen"
+     "no_read": "not read yet"
     },
     {
      "name": "Chairlift line, Timberline",
@@ -1359,7 +1359,7 @@
      "name": "Schweitzer chairlift line",
      "role": "trail",
      "read_at": null,
-     "no_read": "view moved"
+     "no_read": "not read yet"
     },
     {
      "name": "Creekside Express base",
@@ -1377,7 +1377,7 @@
      "name": "Schweitzer summit chairlift",
      "role": "summit",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "not read yet"
     },
     {
      "name": "Chairlift on bare slope",
@@ -1449,7 +1449,7 @@
      "name": "Tahoe Zephyr Express loading",
      "role": "base",
      "read_at": null,
-     "no_read": "view moved"
+     "no_read": "fogged in"
     },
     {
      "name": "Northstar Village rink",
