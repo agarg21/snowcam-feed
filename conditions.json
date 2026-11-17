@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T20:59:51+00:00",
+ "generated_at": "2026-11-17T21:18:00+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -76,7 +76,7 @@
      "name": "Snow Stake",
      "role": "stake",
      "read_at": null,
-     "no_read": "not read yet"
+     "no_read": "feed frozen"
     },
     {
      "name": "Summit",
@@ -238,7 +238,7 @@
    "publish": true,
    "name": "Killington",
    "cam_page": "https://killington.com/webcams",
-   "cams_used": 7,
+   "cams_used": 6,
    "cams_total": 7,
    "cams": [
     {
@@ -256,8 +256,8 @@
     {
      "name": "Killington base valley",
      "role": "base",
-     "read_at": "2026-11-17T20:17:36+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     },
     {
      "name": "Chairlift over trail",
@@ -336,13 +336,13 @@
      "name": "Jay Peak summit trail",
      "role": "summit",
      "read_at": null,
-     "no_read": "view moved"
+     "no_read": "not read yet"
     },
     {
      "name": "prism58",
      "role": "trail",
      "read_at": null,
-     "no_read": "feed frozen"
+     "no_read": "not read yet"
     }
    ],
    "status": "No read",
@@ -375,7 +375,7 @@
      "name": "Gondola line trail",
      "role": "trail",
      "read_at": null,
-     "no_read": "feed frozen"
+     "no_read": "fogged in"
     },
     {
      "name": "Village ice rink",
@@ -476,20 +476,20 @@
    "publish": true,
    "name": "Sugarbush",
    "cam_page": "https://www.sugarbush.com/mountain/webcams",
-   "cams_used": 4,
+   "cams_used": 2,
    "cams_total": 5,
    "cams": [
     {
      "name": "Gate House base plaza",
      "role": "base",
-     "read_at": "2026-11-17T20:17:37+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "feed frozen"
     },
     {
      "name": "Snow stake",
      "role": "stake",
-     "read_at": "2026-11-17T20:17:37+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     },
     {
      "name": "Sugarbush Snow Stake",
@@ -560,7 +560,7 @@
      "name": "Mid Mountain trail",
      "role": "trail",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "not read yet"
     },
     {
      "name": "Stratton Main Base",
@@ -645,7 +645,7 @@
    "publish": true,
    "name": "Breckenridge",
    "cam_page": "https://www.breckenridge.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 3,
+   "cams_used": 2,
    "cams_total": 4,
    "cams": [
     {
@@ -658,7 +658,7 @@
      "name": "Bare mountain trail",
      "role": "trail",
      "read_at": null,
-     "no_read": "feed frozen"
+     "no_read": "not read yet"
     },
     {
      "name": "Breckenridge lift top",
@@ -669,8 +669,8 @@
     {
      "name": "Breck Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-17T20:17:38+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     }
    ],
    "status": "Thin cover",
@@ -785,7 +785,7 @@
    "publish": true,
    "name": "Vail",
    "cam_page": "https://www.vail.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 5,
+   "cams_used": 4,
    "cams_total": 5,
    "cams": [
     {
@@ -815,8 +815,8 @@
     {
      "name": "Vail Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-17T20:17:39+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     }
    ],
    "status": "Thin cover",
@@ -930,7 +930,7 @@
      "name": "Alta snowy slopes",
      "role": "trail",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "feed frozen"
     },
     {
      "name": "Alta high ridge view",
@@ -978,7 +978,7 @@
    "publish": true,
    "name": "Jackson Hole",
    "cam_page": "https://www.jacksonhole.com/live-mountain-cams",
-   "cams_used": 4,
+   "cams_used": 3,
    "cams_total": 4,
    "cams": [
     {
@@ -990,8 +990,8 @@
     {
      "name": "Jackson Hole summit ridge",
      "role": "summit",
-     "read_at": "2026-11-17T20:17:40+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "fogged in"
     },
     {
      "name": "Base lift terminal plaza",
@@ -1033,7 +1033,7 @@
    "publish": true,
    "name": "Mt Bachelor",
    "cam_page": "https://www.mtbachelor.com/the-mountain/webcams/",
-   "cams_used": 3,
+   "cams_used": 2,
    "cams_total": 3,
    "cams": [
     {
@@ -1051,8 +1051,8 @@
     {
      "name": "Mt Bachelor Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-17T20:17:40+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     }
    ],
    "status": "Fair",
@@ -1082,14 +1082,14 @@
    "publish": true,
    "name": "Winter Park",
    "cam_page": "https://www.winterparkresort.com/the-mountain/mountain-cams",
-   "cams_used": 3,
+   "cams_used": 2,
    "cams_total": 3,
    "cams": [
     {
      "name": "Winter Park snow stake",
      "role": "stake",
-     "read_at": "2026-11-17T20:17:40+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "feed frozen"
     },
     {
      "name": "Winter Park lower slopes",
@@ -1135,20 +1135,20 @@
    "publish": true,
    "name": "Snowbird",
    "cam_page": "https://www.snowbird.com/the-mountain/webcams/view-all-webcams/",
-   "cams_used": 1,
+   "cams_used": 0,
    "cams_total": 7,
    "cams": [
     {
      "name": "Snowbird snow stake",
      "role": "stake",
      "read_at": null,
-     "no_read": "not read yet"
+     "no_read": "feed frozen"
     },
     {
      "name": "Snowbird slope view",
      "role": "trail",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "not read yet"
     },
     {
      "name": "Snowbird chairlift slope",
@@ -1159,8 +1159,8 @@
     {
      "name": "Snowbird upper mountain lift line",
      "role": "trail",
-     "read_at": "2026-11-17T20:17:41+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "fogged in"
     },
     {
      "name": "Summit ridge panorama",
@@ -1186,20 +1186,7 @@
    "verdict": "OK",
    "line": "Snowbird: good cover, whiteout up top, snowing now.",
    "read_at": "2026-11-17T20:59:43+00:00",
-   "fields": {
-    "snow_cover": {
-     "value": "good",
-     "conf": 0.6
-    },
-    "visibility": {
-     "value": "whiteout",
-     "conf": 0.6
-    },
-    "falling_snow": {
-     "value": "yes",
-     "conf": 0.8
-    }
-   },
+   "fields": {},
    "stake_inches": null,
    "stake_conf": null,
    "check": {
@@ -1352,7 +1339,7 @@
    "publish": true,
    "name": "Keystone",
    "cam_page": "https://www.keystoneresort.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 6,
+   "cams_used": 5,
    "cams_total": 6,
    "cams": [
     {
@@ -1388,8 +1375,8 @@
     {
      "name": "Keystone Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-17T20:17:42+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     }
    ],
    "status": "Thin cover",
@@ -1427,14 +1414,14 @@
    "publish": true,
    "name": "Copper Mountain",
    "cam_page": "https://www.coppercolorado.com/the-mountain/webcams/",
-   "cams_used": 6,
+   "cams_used": 5,
    "cams_total": 6,
    "cams": [
     {
      "name": "Snow stake",
      "role": "stake",
-     "read_at": "2026-11-17T20:17:43+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     },
     {
      "name": "Copper summit ridge view",
@@ -1534,7 +1521,7 @@
      "name": "Schweitzer chairlift line",
      "role": "trail",
      "read_at": null,
-     "no_read": "view moved"
+     "no_read": "not read yet"
     },
     {
      "name": "Creekside Express base",
@@ -1617,7 +1604,7 @@
    "publish": false,
    "name": "Northstar",
    "cam_page": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 3,
+   "cams_used": 2,
    "cams_total": 4,
    "cams": [
     {
@@ -1635,8 +1622,8 @@
     {
      "name": "Tahoe Zephyr Express loading",
      "role": "base",
-     "read_at": "2026-11-17T20:17:45+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     },
     {
      "name": "Northstar Village rink",
@@ -1762,7 +1749,7 @@
    "publish": true,
    "name": "Telluride",
    "cam_page": "https://tellurideskiresort.com/webcams/",
-   "cams_used": 4,
+   "cams_used": 3,
    "cams_total": 4,
    "cams": [
     {
@@ -1774,8 +1761,8 @@
     {
      "name": "Telluride Snow Stake",
      "role": "stake",
-     "read_at": "2026-11-17T20:17:46+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     },
     {
      "name": "Telluride peak view",
