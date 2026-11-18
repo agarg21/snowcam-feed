@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T11:53:27+00:00",
+ "generated_at": "2026-11-18T12:18:08+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -82,7 +82,7 @@
      "name": "Summit",
      "role": "summit",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "not read yet"
     },
     {
      "name": "Somerset",
