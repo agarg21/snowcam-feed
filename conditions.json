@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:51:03+00:00",
+ "generated_at": "2026-11-20T12:18:04+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -86,7 +86,7 @@
      "name": "Summit",
      "role": "summit",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "not read yet"
     },
     {
      "name": "Somerset",
@@ -348,7 +348,7 @@
      "name": "Jay Peak summit trail",
      "role": "summit",
      "read_at": null,
-     "no_read": "view moved"
+     "no_read": "not read yet"
     },
     {
      "name": "Jay Peak mountain view",
@@ -462,7 +462,7 @@
      "name": "Morning Star lift line",
      "role": "trail",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "not read yet"
     },
     {
      "name": "Mardi Gras Top",
@@ -1176,7 +1176,7 @@
      "name": "Timberline Lodge front",
      "role": "base",
      "read_at": null,
-     "no_read": "unclear view"
+     "no_read": "dark"
     },
     {
      "name": "Timberline snowy slope",
