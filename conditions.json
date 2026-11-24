@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:54:33+00:00",
+ "generated_at": "2026-11-24T14:18:02+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -364,7 +364,7 @@
      "name": "Stowe snow stake",
      "role": "stake",
      "read_at": null,
-     "no_read": "not read yet"
+     "no_read": "feed frozen"
     },
     {
      "name": "Gondola line trail",
@@ -589,7 +589,7 @@
    "publish": true,
    "name": "Seven Springs",
    "cam_page": "https://www.7springs.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 4,
+   "cams_used": 3,
    "cams_total": 4,
    "cams": [
     {
@@ -607,8 +607,8 @@
     {
      "name": "Beginner slope conveyor lifts",
      "role": "trail",
-     "read_at": "2026-11-24T13:17:34+00:00",
-     "no_read": null
+     "read_at": null,
+     "no_read": "not read yet"
     },
     {
      "name": "Summit lift top",
@@ -730,7 +730,7 @@
      "name": "Base lift terminal plaza",
      "role": "base",
      "read_at": null,
-     "no_read": "feed frozen"
+     "no_read": "fogged in"
     }
    ],
    "status": "No read",
@@ -893,7 +893,7 @@
      "name": "Alta forested bowl view",
      "role": "trail",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "not read yet"
     },
     {
      "name": "Alta mountain bowl view",
@@ -940,25 +940,25 @@
      "name": "Base area lift terminal",
      "role": "base",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "Jackson Hole summit ridge",
      "role": "summit",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "Base lift terminal plaza",
      "role": "base",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "Base village ice rink",
      "role": "base",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     }
    ],
    "status": "No read",
@@ -1032,7 +1032,7 @@
      "name": "Winter Park lower slopes",
      "role": "trail",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "not read yet"
     },
     {
      "name": "Winter Park town view",
@@ -1071,43 +1071,43 @@
      "name": "Snowbird snow stake",
      "role": "stake",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "Snowbird slope view",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "Snowbird chairlift slope",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "Snowbird upper mountain lift line",
      "role": "trail",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "feed frozen"
     },
     {
      "name": "Summit ridge panorama",
      "role": "summit",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "Snowbird summit ridge view",
      "role": "summit",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     },
     {
      "name": "Snowbird summit ridge view",
      "role": "summit",
      "read_at": null,
-     "no_read": "dark"
+     "no_read": "not read yet"
     }
    ],
    "status": "No read",
@@ -1135,7 +1135,7 @@
      "name": "Deer Valley lift top view",
      "role": "summit",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "not read yet"
     },
     {
      "name": "Deer Valley summit sign",
@@ -1628,7 +1628,7 @@
      "name": "Base lift loading area",
      "role": "base",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "not read yet"
     },
     {
      "name": "Summit lift top deck",
