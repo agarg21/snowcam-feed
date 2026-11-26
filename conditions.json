@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:15:55+00:00",
+ "generated_at": "2026-11-26T18:18:42+00:00",
  "window_minutes": 45,
  "resorts": {
   "hunter": {
@@ -24,7 +24,7 @@
     {
      "name": "Hunter East",
      "role": "trail",
-     "read_at": "2026-11-26T17:45:38+00:00",
+     "read_at": "2026-11-26T18:17:36+00:00",
      "no_read": null
     },
     {
@@ -34,19 +34,19 @@
      "no_read": null
     }
    ],
-   "status": "Fair",
-   "label": "Fair",
-   "verdict": "OK",
-   "line": "Hunter Mountain: good cover, no new snow, base quiet, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "status": "Thin cover",
+   "label": "Thin cover",
+   "verdict": "Thin cover",
+   "line": "Hunter Mountain: thin cover, no new snow, base quiet, not snowing.",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "fresh_snow": {
      "value": "none",
      "conf": 0.8
     },
     "snow_cover": {
-     "value": "good",
-     "conf": 0.6
+     "value": "thin",
+     "conf": 0.7
     },
     "base_busyness": {
      "value": "quiet",
@@ -99,7 +99,7 @@
     {
      "name": "Main Base Area",
      "role": "base",
-     "read_at": "2026-11-26T17:45:39+00:00",
+     "read_at": "2026-11-26T18:17:37+00:00",
      "no_read": null
     }
    ],
@@ -107,7 +107,7 @@
    "label": "Thin cover",
    "verdict": "Thin cover",
    "line": "Mount Snow: thin cover, base quiet, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "thin",
@@ -123,7 +123,7 @@
     },
     "base_busyness": {
      "value": "quiet",
-     "conf": 0.6
+     "conf": 0.7
     },
     "falling_snow": {
      "value": "no",
@@ -160,7 +160,7 @@
     {
      "name": "Sugar House",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:22+00:00",
+     "read_at": "2026-11-26T18:17:37+00:00",
      "no_read": null
     },
     {
@@ -173,11 +173,15 @@
    "status": "Fair",
    "label": "Fair",
    "verdict": "OK",
-   "line": "Okemo: good cover, snowmaking on, snowing now.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "line": "Okemo: good cover, snowmaking on, not snowing.",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "good",
+     "conf": 0.6
+    },
+    "visibility": {
+     "value": "hazy",
      "conf": 0.6
     },
     "snowmaking": {
@@ -185,8 +189,8 @@
      "conf": 0.9
     },
     "falling_snow": {
-     "value": "yes",
-     "conf": 0.8
+     "value": "no",
+     "conf": 0.6
     }
    },
    "stake_inches": null,
@@ -215,7 +219,7 @@
    "label": "No read",
    "verdict": "No read",
    "line": "Windham Mountain Club: no clear view right now (Base stale: identical to previous 5 frames).",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {},
    "stake_inches": null,
    "stake_conf": null,
@@ -229,7 +233,7 @@
    "publish": true,
    "name": "Killington",
    "cam_page": "https://killington.com/webcams",
-   "cams_used": 2,
+   "cams_used": 3,
    "cams_total": 7,
    "cams": [
     {
@@ -241,7 +245,7 @@
     {
      "name": "Killington summit lift top",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:22+00:00",
+     "read_at": "2026-11-26T18:17:37+00:00",
      "no_read": null
     },
     {
@@ -259,8 +263,8 @@
     {
      "name": "Killington summit clearing",
      "role": "summit",
-     "read_at": null,
-     "no_read": "view moved"
+     "read_at": "2026-11-26T18:17:38+00:00",
+     "no_read": null
     },
     {
      "name": "K-1 Lodge base",
@@ -275,18 +279,26 @@
      "no_read": "feed frozen"
     }
    ],
-   "status": "Fair",
-   "label": "Fair",
-   "verdict": "OK",
-   "line": "Killington: good cover.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "status": "Thin cover",
+   "label": "Thin cover",
+   "verdict": "Thin cover",
+   "line": "Killington: thin cover, no new snow, not snowing.",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
+    "fresh_snow": {
+     "value": "none",
+     "conf": 0.8
+    },
     "snow_cover": {
-     "value": "good",
+     "value": "thin",
      "conf": 0.8
     },
     "visibility": {
      "value": "hazy",
+     "conf": 0.6
+    },
+    "falling_snow": {
+     "value": "no",
      "conf": 0.6
     }
    },
@@ -328,7 +340,7 @@
    "label": "Thin cover",
    "verdict": "Thin cover",
    "line": "Jay Peak: thin cover, no new snow, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {},
    "stake_inches": null,
    "stake_conf": null,
@@ -342,14 +354,14 @@
    "publish": true,
    "name": "Stowe",
    "cam_page": "https://www.stowe.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 1,
+   "cams_used": 2,
    "cams_total": 4,
    "cams": [
     {
      "name": "Stowe Mountain Lodge base",
      "role": "base",
-     "read_at": null,
-     "no_read": "feed frozen"
+     "read_at": "2026-11-26T18:17:38+00:00",
+     "no_read": null
     },
     {
      "name": "Stowe snow stake",
@@ -361,21 +373,30 @@
      "name": "Gondola line trail",
      "role": "trail",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "feed frozen"
     },
     {
      "name": "Village ice rink",
      "role": "base",
-     "read_at": "2026-11-26T18:14:23+00:00",
+     "read_at": "2026-11-26T18:17:38+00:00",
      "no_read": null
     }
    ],
-   "status": "No read",
-   "label": "No read",
-   "verdict": "No read",
-   "line": "Stowe: nothing notable visible.",
-   "read_at": "2026-11-26T18:15:42+00:00",
-   "fields": {},
+   "status": "Thin cover",
+   "label": "Thin cover",
+   "verdict": "Thin cover",
+   "line": "Stowe: thin cover, not snowing.",
+   "read_at": "2026-11-26T18:18:27+00:00",
+   "fields": {
+    "snow_cover": {
+     "value": "thin",
+     "conf": 0.6
+    },
+    "falling_snow": {
+     "value": "no",
+     "conf": 0.6
+    }
+   },
    "stake_inches": null,
    "stake_conf": null,
    "check": {
@@ -406,7 +427,7 @@
     {
      "name": "Morning Star lift line",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:23+00:00",
+     "read_at": "2026-11-26T18:17:38+00:00",
      "no_read": null
     },
     {
@@ -426,7 +447,7 @@
    "label": "Thin cover",
    "verdict": "Thin cover",
    "line": "Holiday Valley: thin cover, no new snow, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "fresh_snow": {
      "value": "none",
@@ -434,11 +455,11 @@
     },
     "snow_cover": {
      "value": "thin",
-     "conf": 0.9
+     "conf": 0.95
     },
     "snowmaking": {
      "value": "off",
-     "conf": 0.7
+     "conf": 0.8
     },
     "falling_snow": {
      "value": "no",
@@ -457,7 +478,7 @@
    "publish": true,
    "name": "Sugarbush",
    "cam_page": "https://www.sugarbush.com/mountain/webcams",
-   "cams_used": 1,
+   "cams_used": 2,
    "cams_total": 5,
    "cams": [
     {
@@ -481,29 +502,29 @@
     {
      "name": "Sugarbush summit view",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:23+00:00",
+     "read_at": "2026-11-26T18:17:39+00:00",
      "no_read": null
     },
     {
      "name": "Sugarbush base lodge",
      "role": "base",
-     "read_at": null,
-     "no_read": "feed frozen"
+     "read_at": "2026-11-26T18:17:39+00:00",
+     "no_read": null
     }
    ],
    "status": "Thin cover",
    "label": "Thin cover",
    "verdict": "Thin cover",
    "line": "Sugarbush: thin cover, no new snow, base quiet, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "fresh_snow": {
      "value": "none",
-     "conf": 0.8
+     "conf": 0.6
     },
     "snow_cover": {
      "value": "thin",
-     "conf": 0.8
+     "conf": 0.6
     },
     "base_busyness": {
      "value": "quiet",
@@ -511,7 +532,7 @@
     },
     "falling_snow": {
      "value": "no",
-     "conf": 0.7
+     "conf": 0.6
     }
    },
    "stake_inches": null,
@@ -526,7 +547,7 @@
    "publish": true,
    "name": "Stratton",
    "cam_page": "https://www.stratton.com/the-mountain/webcams",
-   "cams_used": 0,
+   "cams_used": 1,
    "cams_total": 5,
    "cams": [
     {
@@ -556,16 +577,25 @@
     {
      "name": "Stratton base view",
      "role": "base",
-     "read_at": null,
-     "no_read": "view moved"
+     "read_at": "2026-11-26T18:17:39+00:00",
+     "no_read": null
     }
    ],
-   "status": "Fair",
-   "label": "Fair",
-   "verdict": "OK",
-   "line": "Stratton: nothing notable visible.",
-   "read_at": "2026-11-26T18:15:42+00:00",
-   "fields": {},
+   "status": "Thin cover",
+   "label": "Thin cover",
+   "verdict": "Thin cover",
+   "line": "Stratton: thin cover.",
+   "read_at": "2026-11-26T18:18:27+00:00",
+   "fields": {
+    "snow_cover": {
+     "value": "thin",
+     "conf": 0.7
+    },
+    "visibility": {
+     "value": "hazy",
+     "conf": 0.6
+    }
+   },
    "stake_inches": null,
    "stake_conf": null,
    "check": {
@@ -578,13 +608,13 @@
    "publish": true,
    "name": "Seven Springs",
    "cam_page": "https://www.7springs.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 2,
+   "cams_used": 3,
    "cams_total": 4,
    "cams": [
     {
      "name": "Tubing park and base",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:24+00:00",
+     "read_at": "2026-11-26T18:17:39+00:00",
      "no_read": null
     },
     {
@@ -602,15 +632,15 @@
     {
      "name": "Summit lift top",
      "role": "summit",
-     "read_at": null,
-     "no_read": "not read yet"
+     "read_at": "2026-11-26T18:17:39+00:00",
+     "no_read": null
     }
    ],
    "status": "Thin cover",
    "label": "Thin cover",
    "verdict": "Thin cover",
    "line": "Seven Springs: thin cover, no new snow.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "fresh_snow": {
      "value": "none",
@@ -643,7 +673,7 @@
     {
      "name": "Mountain ridge view",
      "role": "summit",
-     "read_at": "2026-11-26T17:45:41+00:00",
+     "read_at": "2026-11-26T18:17:39+00:00",
      "no_read": null
     },
     {
@@ -655,7 +685,7 @@
     {
      "name": "Breckenridge lift top",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:24+00:00",
+     "read_at": "2026-11-26T18:17:39+00:00",
      "no_read": null
     },
     {
@@ -669,7 +699,7 @@
    "label": "Fair",
    "verdict": "OK",
    "line": "Breckenridge: good cover, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "good",
@@ -677,15 +707,15 @@
     },
     "visibility": {
      "value": "clear",
-     "conf": 0.8
+     "conf": 0.7
     },
     "snowmaking": {
      "value": "off",
-     "conf": 0.7
+     "conf": 0.6
     },
     "falling_snow": {
      "value": "no",
-     "conf": 0.85
+     "conf": 0.7
     }
    },
    "stake_inches": null,
@@ -724,7 +754,7 @@
     {
      "name": "Park City summit ridge",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:24+00:00",
+     "read_at": "2026-11-26T18:17:40+00:00",
      "no_read": null
     },
     {
@@ -736,13 +766,13 @@
     {
      "name": "Summit chairlift line",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:25+00:00",
+     "read_at": "2026-11-26T18:17:40+00:00",
      "no_read": null
     },
     {
      "name": "Base lift terminal plaza",
      "role": "base",
-     "read_at": "2026-11-26T18:14:25+00:00",
+     "read_at": "2026-11-26T18:17:40+00:00",
      "no_read": null
     }
    ],
@@ -763,25 +793,25 @@
     {
      "name": "Vail summit snowgun view",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:25+00:00",
+     "read_at": "2026-11-26T18:17:40+00:00",
      "no_read": null
     },
     {
      "name": "Vail summit ridge view",
      "role": "summit",
-     "read_at": "2026-11-26T17:45:42+00:00",
+     "read_at": "2026-11-26T18:17:40+00:00",
      "no_read": null
     },
     {
      "name": "Vail summit ridge view",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:25+00:00",
+     "read_at": "2026-11-26T18:17:40+00:00",
      "no_read": null
     },
     {
      "name": "Vail high alpine ridge",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:25+00:00",
+     "read_at": "2026-11-26T18:17:40+00:00",
      "no_read": null
     },
     {
@@ -795,11 +825,11 @@
    "label": "Thin cover",
    "verdict": "Thin cover",
    "line": "Vail: thin cover, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "thin",
-     "conf": 0.6
+     "conf": 0.7
     },
     "visibility": {
      "value": "clear",
@@ -909,13 +939,13 @@
     {
      "name": "Alta forested bowl view",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:25+00:00",
+     "read_at": "2026-11-26T18:17:41+00:00",
      "no_read": null
     },
     {
      "name": "Alta mountain bowl view",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:25+00:00",
+     "read_at": "2026-11-26T18:17:41+00:00",
      "no_read": null
     }
    ],
@@ -923,7 +953,7 @@
    "label": "Fair",
    "verdict": "OK",
    "line": "Alta: good cover, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "good",
@@ -931,7 +961,7 @@
     },
     "snowmaking": {
      "value": "off",
-     "conf": 0.7
+     "conf": 0.8
     },
     "falling_snow": {
      "value": "no",
@@ -956,7 +986,7 @@
     {
      "name": "Base area lift terminal",
      "role": "base",
-     "read_at": "2026-11-26T18:14:26+00:00",
+     "read_at": "2026-11-26T18:17:41+00:00",
      "no_read": null
     },
     {
@@ -982,7 +1012,7 @@
    "label": "Thin cover",
    "verdict": "Thin cover",
    "line": "Jackson Hole: thin cover, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "thin",
@@ -1017,7 +1047,7 @@
     {
      "name": "Top of Cloudchaser",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:26+00:00",
+     "read_at": "2026-11-26T18:17:41+00:00",
      "no_read": null
     },
     {
@@ -1031,11 +1061,11 @@
    "label": "Fair",
    "verdict": "OK",
    "line": "Mt Bachelor: good cover, snowing now.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "good",
-     "conf": 0.8
+     "conf": 0.85
     },
     "snowmaking": {
      "value": "off",
@@ -1043,7 +1073,7 @@
     },
     "falling_snow": {
      "value": "yes",
-     "conf": 0.7
+     "conf": 0.6
     }
    },
    "stake_inches": null,
@@ -1076,7 +1106,7 @@
     {
      "name": "Winter Park town view",
      "role": "base",
-     "read_at": "2026-11-26T18:14:26+00:00",
+     "read_at": "2026-11-26T18:17:41+00:00",
      "no_read": null
     }
    ],
@@ -1084,7 +1114,7 @@
    "label": "Thin cover",
    "verdict": "Thin cover",
    "line": "Winter Park: thin cover, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "thin",
@@ -1129,25 +1159,25 @@
     {
      "name": "Snowbird chairlift slope",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:26+00:00",
+     "read_at": "2026-11-26T18:17:41+00:00",
      "no_read": null
     },
     {
      "name": "Snowbird upper mountain lift line",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:26+00:00",
+     "read_at": "2026-11-26T18:17:41+00:00",
      "no_read": null
     },
     {
      "name": "Summit ridge panorama",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:26+00:00",
+     "read_at": "2026-11-26T18:17:41+00:00",
      "no_read": null
     },
     {
      "name": "Snowbird summit ridge view",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:26+00:00",
+     "read_at": "2026-11-26T18:17:42+00:00",
      "no_read": null
     },
     {
@@ -1161,11 +1191,11 @@
    "label": "Fair",
    "verdict": "OK",
    "line": "Snowbird: good cover, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "good",
-     "conf": 0.85
+     "conf": 0.9
     },
     "visibility": {
      "value": "clear",
@@ -1225,14 +1255,14 @@
     {
      "name": "Timberline Lodge front",
      "role": "base",
-     "read_at": "2026-11-26T18:14:26+00:00",
+     "read_at": "2026-11-26T18:17:42+00:00",
      "no_read": null
     },
     {
      "name": "Timberline snowy slope",
      "role": "trail",
      "read_at": null,
-     "no_read": "fogged in"
+     "no_read": "view moved"
     },
     {
      "name": "Lift terminal and tower",
@@ -1255,7 +1285,7 @@
     {
      "name": "Lift line in fog",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:27+00:00",
+     "read_at": "2026-11-26T18:17:42+00:00",
      "no_read": null
     }
    ],
@@ -1263,7 +1293,7 @@
    "label": "No read",
    "verdict": "No read",
    "line": "Timberline Lodge: nothing notable visible.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {},
    "stake_inches": null,
    "stake_conf": null,
@@ -1309,7 +1339,7 @@
    "label": "Fair",
    "verdict": "OK",
    "line": "Heavenly: good cover.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "good",
@@ -1340,19 +1370,19 @@
     {
      "name": "Keystone upper slope",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:27+00:00",
+     "read_at": "2026-11-26T18:17:43+00:00",
      "no_read": null
     },
     {
      "name": "Keystone Lake village",
      "role": "base",
-     "read_at": "2026-11-26T17:45:45+00:00",
+     "read_at": "2026-11-26T18:17:43+00:00",
      "no_read": null
     },
     {
      "name": "Keystone summit lift top",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:27+00:00",
+     "read_at": "2026-11-26T18:17:43+00:00",
      "no_read": null
     },
     {
@@ -1403,19 +1433,19 @@
     {
      "name": "Copper base lift area",
      "role": "base",
-     "read_at": "2026-11-26T18:14:28+00:00",
+     "read_at": "2026-11-26T18:17:43+00:00",
      "no_read": null
     },
     {
      "name": "Summit lift top",
      "role": "summit",
-     "read_at": "2026-11-26T17:45:45+00:00",
+     "read_at": "2026-11-26T18:17:43+00:00",
      "no_read": null
     },
     {
      "name": "Copper trail with lift line",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:28+00:00",
+     "read_at": "2026-11-26T18:17:43+00:00",
      "no_read": null
     }
    ],
@@ -1448,7 +1478,7 @@
     {
      "name": "Summit lift top",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:28+00:00",
+     "read_at": "2026-11-26T18:17:44+00:00",
      "no_read": null
     }
    ],
@@ -1456,7 +1486,7 @@
    "label": "Busy",
    "verdict": "Busy",
    "line": "Bogus Basin: good cover, base busy.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "good",
@@ -1491,7 +1521,7 @@
     {
      "name": "Creekside Express base",
      "role": "base",
-     "read_at": "2026-11-26T17:45:46+00:00",
+     "read_at": "2026-11-26T18:17:44+00:00",
      "no_read": null
     },
     {
@@ -1504,12 +1534,12 @@
      "name": "Schweitzer summit chairlift",
      "role": "summit",
      "read_at": null,
-     "no_read": "view moved"
+     "no_read": "fogged in"
     },
     {
      "name": "Chairlift on bare slope",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:28+00:00",
+     "read_at": "2026-11-26T18:17:44+00:00",
      "no_read": null
     },
     {
@@ -1536,7 +1566,7 @@
     {
      "name": "Solitude lift base",
      "role": "base",
-     "read_at": "2026-11-26T18:14:28+00:00",
+     "read_at": "2026-11-26T18:17:44+00:00",
      "no_read": null
     },
     {
@@ -1550,14 +1580,10 @@
    "label": "Fair",
    "verdict": "OK",
    "line": "Kirkwood: good cover, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "good",
-     "conf": 0.8
-    },
-    "snowmaking": {
-     "value": "off",
      "conf": 0.6
     },
     "falling_snow": {
@@ -1577,7 +1603,7 @@
    "publish": true,
    "name": "Northstar",
    "cam_page": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/mountain-cams.aspx",
-   "cams_used": 2,
+   "cams_used": 3,
    "cams_total": 4,
    "cams": [
     {
@@ -1595,13 +1621,13 @@
     {
      "name": "Tahoe Zephyr Express loading",
      "role": "base",
-     "read_at": null,
-     "no_read": "view moved"
+     "read_at": "2026-11-26T18:17:44+00:00",
+     "no_read": null
     },
     {
      "name": "Northstar Village rink",
      "role": "base",
-     "read_at": "2026-11-26T18:14:28+00:00",
+     "read_at": "2026-11-26T18:17:44+00:00",
      "no_read": null
     }
    ],
@@ -1609,7 +1635,7 @@
    "label": "Fair",
    "verdict": "OK",
    "line": "Northstar: good cover, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "good",
@@ -1638,7 +1664,7 @@
     {
      "name": "Wolf Creek lift line",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:28+00:00",
+     "read_at": "2026-11-26T18:17:44+00:00",
      "no_read": null
     },
     {
@@ -1651,14 +1677,14 @@
      "name": "Wolf Creek summit view",
      "role": "summit",
      "read_at": null,
-     "no_read": "not read yet"
+     "no_read": "feed frozen"
     }
    ],
    "status": "Fair",
    "label": "Fair",
    "verdict": "OK",
    "line": "Wolf Creek: good cover, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "good",
@@ -1698,12 +1724,12 @@
      "name": "Summit lift top deck",
      "role": "summit",
      "read_at": null,
-     "no_read": "feed frozen"
+     "no_read": "not read yet"
     },
     {
      "name": "Base lift loading area",
      "role": "base",
-     "read_at": "2026-11-26T17:45:47+00:00",
+     "read_at": "2026-11-26T18:17:44+00:00",
      "no_read": null
     }
    ],
@@ -1724,25 +1750,25 @@
     {
      "name": "Telluride base slope",
      "role": "base",
-     "read_at": "2026-11-26T18:14:29+00:00",
+     "read_at": "2026-11-26T18:17:44+00:00",
      "no_read": null
     },
     {
      "name": "Telluride Snow Stake",
      "role": "stake",
      "read_at": null,
-     "no_read": "not read yet"
+     "no_read": "feed frozen"
     },
     {
      "name": "Telluride peak view",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:29+00:00",
+     "read_at": "2026-11-26T18:17:45+00:00",
      "no_read": null
     },
     {
      "name": "Telluride high mountain view",
      "role": "summit",
-     "read_at": "2026-11-26T17:45:47+00:00",
+     "read_at": "2026-11-26T18:17:45+00:00",
      "no_read": null
     }
    ],
@@ -1750,7 +1776,7 @@
    "label": "Thin cover",
    "verdict": "Thin cover",
    "line": "Telluride: thin cover, not snowing.",
-   "read_at": "2026-11-26T18:15:42+00:00",
+   "read_at": "2026-11-26T18:18:27+00:00",
    "fields": {
     "snow_cover": {
      "value": "thin",
@@ -1783,7 +1809,7 @@
     {
      "name": "Boyne Mountain base village",
      "role": "base",
-     "read_at": "2026-11-26T18:14:29+00:00",
+     "read_at": "2026-11-26T18:17:45+00:00",
      "no_read": null
     },
     {
@@ -1801,7 +1827,7 @@
     {
      "name": "Boyne Mountain lift line",
      "role": "trail",
-     "read_at": "2026-11-26T18:14:29+00:00",
+     "read_at": "2026-11-26T18:17:45+00:00",
      "no_read": null
     },
     {
@@ -1840,7 +1866,7 @@
     {
      "name": "Crystal Mountain summit panorama",
      "role": "summit",
-     "read_at": "2026-11-26T18:14:29+00:00",
+     "read_at": "2026-11-26T18:17:45+00:00",
      "no_read": null
     }
    ],
